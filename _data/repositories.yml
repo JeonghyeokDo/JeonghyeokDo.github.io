@@ -1,9 +1,3 @@
-github_users:
-  - KAIST-VICLab
-  - JeonghyeokDo
-
-repo_description_lines_max: 2
-
 github_repos:
   - KAIST-VICLab/SkateFormer
   - KAIST-VICLab/TDSM
